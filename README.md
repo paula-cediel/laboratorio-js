@@ -1,2 +1,2 @@
-# construcora.js
+# constructora.js
 Ejercicios resueltos del laboratorio de JavaScript
